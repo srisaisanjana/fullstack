@@ -1,0 +1,18 @@
+.a1{
+    color: red;
+    font-size: small;
+    text-align: center;
+    text-transform: capitalize;
+}
+.a2{
+    color: #FFC300;
+    font-size: x-large;
+    text-align: left;
+    text-transform: lowercase;
+}
+.a3{
+    color:rgb(144, 12, 63);
+    font-size: xx-small;
+    text-align: right;
+    text-transform: uppercase;
+}
