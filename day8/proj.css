@@ -1,0 +1,39 @@
+
+
+ul{
+    list-style-type: none;
+    border:2px solid green;
+    background-color: lightgoldenrodyellow;
+}
+ul a{
+     display: inline-block;
+     color:darkblue;
+     margin: 10px;
+     text-decoration: underline;
+     font-size: 20px;
+     border: 2px solid chocolate;
+     border-block-start-width: 2px;
+     margin-block-start: 20px;
+     
+     
+}
+ul a:hover{
+    color: darkcyan;
+    background-color: lightblue;
+    font-size: x-large;
+}
+ul a:active{
+    color: green;
+}
+table,td,th{
+    border:2px solid black;
+    
+}
+
+th{
+    height: 50%;
+    text-align: unset;
+    position: relative;
+    vertical-align: 40px;
+}
+
